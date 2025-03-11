@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tfctiaddon",
+  "name": "TFCTIAddon",
+  "description": "Addon for the TFC: The Twilight Invasion Modpack.",
+  "version": "1.0",
+  "mcversion": "1.7.10-10.13.4.1614-1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BenjaMenja"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

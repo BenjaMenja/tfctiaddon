@@ -1,0 +1,7 @@
+item.pale_ale.name=Bottle of Pale Ale
+item.coffee.name=Bottle of Coffee
+item.phantom_scrap.name=Phantom Scrap
+item.dragon_scale.name=Dragon Scale
+item.dragon_summoner.name=Dragon Summoner
+fluid.FluidPaleAle=Pale Ale
+fluid.FluidCoffee=Coffee
